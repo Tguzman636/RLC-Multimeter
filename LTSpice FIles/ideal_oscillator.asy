@@ -1,0 +1,13 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -64 -56 64 56
+WINDOW 0 0 -56 Bottom 2
+PIN 64 0 RIGHT 8
+PINATTR PinName v_0
+PINATTR SpiceOrder 1
+PIN 64 32 RIGHT 8
+PINATTR PinName v_90
+PINATTR SpiceOrder 2
+PIN 64 -32 RIGHT 8
+PINATTR PinName v_sine
+PINATTR SpiceOrder 3

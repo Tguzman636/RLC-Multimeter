@@ -1,0 +1,13 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -64 -56 80 56
+WINDOW 0 8 -56 Bottom 2
+PIN 80 -32 RIGHT 8
+PINATTR PinName v_sine
+PINATTR SpiceOrder 1
+PIN 80 0 RIGHT 8
+PINATTR PinName v_sq_0
+PINATTR SpiceOrder 2
+PIN 80 32 RIGHT 8
+PINATTR PinName v_sq_90
+PINATTR SpiceOrder 3
